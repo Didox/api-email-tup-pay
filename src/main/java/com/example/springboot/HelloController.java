@@ -4,11 +4,11 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
-public class HomeController {
+public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "<h1>Bem vindo a API de Email TUP Pay</h1>";
+		return "Greetings from Spring Boot!";
 	}
 
 }
