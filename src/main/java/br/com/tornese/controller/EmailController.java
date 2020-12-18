@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @CrossOrigin("*")
 public class EmailController {
-	@PostMapping("/")
+	@PostMapping("/email/enviar")
 	public String enviar() {
 		return "{\"status\": \"Email enviado com sucesso\", \"id_transacao\": \"TSGJ12653\"}";
 	}
