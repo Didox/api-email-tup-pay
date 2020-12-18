@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/java,macos,windows,linux,vscode
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,macos,windows,linux,vscode
+# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,java,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,java,windows
 
 ### Java ###
 # Compiled class file
@@ -71,14 +71,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### vscode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -105,4 +97,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/java,macos,windows,linux,vscode
+# End of https://www.toptal.com/developers/gitignore/api/macos,linux,java,windows

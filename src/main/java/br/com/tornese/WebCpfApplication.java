@@ -1,4 +1,4 @@
-package br.com.professorisidro.validacpf;
+package br.com.tornese.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
