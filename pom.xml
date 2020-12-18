@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.tornese</groupId>
-	<artifactId>validacpf</artifactId>
+	<artifactId>Email</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WebCPF</name>
 	<description>Exemplo de SpringBoot </description>
