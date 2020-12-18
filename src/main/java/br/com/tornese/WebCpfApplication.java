@@ -1,4 +1,4 @@
-package br.com.tornese.controller;
+package br.com.tornese;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
